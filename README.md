@@ -1,2 +1,2 @@
 # delta-demo
-this is a learning class
+This is a learning class
